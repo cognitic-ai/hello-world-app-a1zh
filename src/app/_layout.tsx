@@ -1,3 +1,4 @@
+import "@/global.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import Stack from "expo-router/stack";
 import * as AC from "@bacons/apple-colors";
